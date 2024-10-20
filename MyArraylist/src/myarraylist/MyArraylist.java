@@ -9,9 +9,14 @@ public class MyArraylist {
     public static void main(String[] args) {
         
         
-        ItemManager list = new ItemManager();
+        ItemManager fruits = new ItemManager();
         
+        
+        fruits.insertItem("Apple");
+    
      
+        
+        
     
 
 
